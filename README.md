@@ -1,5 +1,5 @@
 # SOFE3650U - Project Proposal - Group 19
-
+# Title - Kitchen Mania 
 ## Contributors 
 * Mason Koitsan
 * Jathavan Anton-Geetharaj
