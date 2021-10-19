@@ -15,3 +15,5 @@ This project was initially designed in SOFE2800U (Web Programming), as such we h
 ## Functional Requirements
 
 ## Non-Functional Requirements
+Level Difficulties - Every level should be increasingly more difficult, as this is what gives a competetive feel to the game. When the user beats a level, the next level they move on to will require more points within a lesser amount of moves.
+
