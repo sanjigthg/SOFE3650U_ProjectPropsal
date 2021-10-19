@@ -10,7 +10,7 @@
 
 For this required deliverable, we are presenting the title of the project with a set of functional and non-functional requirements that are required for the software project we have selected to work on. 
 
-This project was initially designed in SOFE2800U (Web Programming), as such we have decided to select this as our software project. 
+This project was initially designed in SOFE2800U (Web Programming), as such we have decided to select this as our software project. We created a game, “Kitchen Mania”, which is very similar to the famously known video game Candy Crush. We added our own ideas to change the game and made it in our own unique way. The main objective of the game is to match up certain food ingredients and collect enough items and points to solve the puzzle. Kitchen Mania will consist of six levels, and each level will contain a different theme, new goal, and a new format of the puzzle. Throughout each level, the difficulty of the game will continue to increase as we plan to test the user’s knowledge and increase their attention towards the game.  
 
 ## Functional Requirements
 For our software project proposal, the selected project we are working with is a small web-based game called Kitchen Mania. This project was designed to have a multitude of vast and different features to be able to explore and use various web development concepts (languages like JS, PHP, HTML, etc.), as well as using our capabilities in CSS to showcase the quality of the overall finished product. 
