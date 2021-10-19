@@ -16,14 +16,19 @@ This project was initially designed in SOFE2800U (Web Programming), as such we h
 For our software project proposal, the selected project we are working with is a small web-based game called Kitchen Mania. This project was designed to have a multitude of vast and different features to be able to explore and use various web development concepts (languages like JS, PHP, HTML, etc.), as well as using our capabilities in CSS to showcase the quality of the overall finished product. 
 
 Using this software project, and what we’ve currently learned thus far – the functional requirements that should be focused on are the following:
+
 1)Hi-Score Tracking
 This functional requirement should allow the user to be encouraged to play competitively or casually amongst friends or other online users. This should also give the user the opportunity to view their own scores to improve if they so desire to. 
+
 2)Software Platform
 The requirement should mainly focus on allowing the user to have access to the software through a web-based experience due to the non-capabilities to design the software project through any other means at the current moment. This software platform functional requirement will be able to be adjusted once further experience and knowledge is available. 
+
 3)	Combo Sequence Capability
 This functional requirement allows the user to gain points through a combo sequence of matching items/objects in a row or column of 3-4. As an important part to the purpose of this software, this functional requirement has a lot of focus on being able to be executed successfully and without issues. 
+
 4)	Hi-Score System
 This functional requirement is tied with the Functional Requirement #1, where the user should be able to compare their scores with other users or themselves. Both requirements are interrelated since there needs to be a system designed to track the hi-scores in general. 
+
 5)	Multiple Levels
 The design of this software project requires the user to be able to collect a hi-score, and to do that they must be able to gain points by completing levels. This functional requirement requires the user to pass through levels after successfully completing the current level and gaining the required points. 
 
