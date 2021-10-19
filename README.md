@@ -33,8 +33,8 @@ Using this software project, and what we’ve currently learned thus far – the
 
 **Downloadable/purchasable content** - The user will be able to purchase or download limited edition content; this will allow for the game content to be updated keeping the user experience fresh and fun.
 
-**Different Themes **- As the user progresses through the game, we want to allow for different themes inbetween each level. This will allow for the game to keep from becoming old and redundant in the space of user experience.
+**Different Themes** - As the user progresses through the game, we want to allow for different themes inbetween each level. This will allow for the game to keep from becoming old and redundant in the space of user experience.
 
-**Easily Accessable **- We wish for our users to be able to play our game anywhere we go. With that we will attempt to make the game accessable from computers, laptops, or even smartphones.
+**Easily Accessable** - We wish for our users to be able to play our game anywhere we go. With that we will attempt to make the game accessable from computers, laptops, or even smartphones.
 
 **Advertisement Remover** - As we plan for our game to be free to play, we will need to use ads to bring in revenue in order to continue support for the game. However we plan to offer a purchasable advertisement remover, which will allow the user to get rid of annoying ad's while still being able to support us and play our game.
