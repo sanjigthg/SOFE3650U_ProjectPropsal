@@ -29,9 +29,7 @@ The requirement should mainly focus on allowing the user to have access to the s
 
 This functional requirement allows the user to gain points through a combo sequence of matching items/objects in a row or column of 3-4. As an important part to the purpose of this software, this functional requirement has a lot of focus on being able to be executed successfully and without issues. 
 
-**Hi-Score System**
-
-This functional requirement is tied with the Functional Requirement #1, where the user should be able to compare their scores with other users or themselves. Both requirements are interrelated since there needs to be a system designed to track the hi-scores in general. 
+**Hi-Score System** - This functional requirement is tied with the Functional Requirement #1, where the user should be able to compare their scores with other users or themselves. Both requirements are interrelated since there needs to be a system designed to track the hi-scores in general. 
 
 **Multiple Levels**
 
