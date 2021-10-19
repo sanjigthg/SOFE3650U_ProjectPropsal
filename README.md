@@ -2,9 +2,9 @@
 # Title - Kitchen Mania 
 ## Contributors 
 * Mason Koitsan - 100749078
-* Jathavan Anton-Geetharaj
-* Dillon Dudley
-* Sanjigth Gnanabaskaran
+* Jathavan Anton-Geetharaj - 100759884
+* Dillon Dudley - 100743584
+* Sanjigth Gnanabaskaran - 100635268
 
 ## DELIVERABLE #1 - PROJECT PROPOSAL 
 
