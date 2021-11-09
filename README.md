@@ -17,7 +17,7 @@ For our software project proposal, the selected project we are working with is a
 
 Using this software project, and what we’ve currently learned thus far – the functional requirements that should be focused on are the following:
 
-### 1) **Hi-Score Tracking** 
+### 1) **[Hi-Score Tracking](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)** 
 
 ### 2) **Software Platform** 
 
