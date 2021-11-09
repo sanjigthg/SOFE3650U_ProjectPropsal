@@ -41,10 +41,10 @@ Using this software project, and what we’ve currently learned thus far – the
 
 ## [DELIVERABLE #2 - Project Phase II](/Deliverable%20#2) 
 
-### **[FCAPS Use Case Model](Deliverable%20#2/FCAPS_PhaseII_Diagram.pdf)**
+### **[FCAPS Use Case Model](Deliverable%202/FCAPS_PhaseII_Diagram.pdf)**
 
-### **[Use Case Table](Deliverable%20#2/UseCase_Table.pdf)**
+### **[Use Case Table](Deliverable%202/UseCase_Table.pdf)**
 
-### **[Quality Attributes Table For Use Case](Deliverable%20#2/QualityAttributes_Table.pdf)**
+### **[Quality Attributes Table For Use Case](Deliverable%202/QualityAttributes_Table.pdf)**
 
-### **[System Constraints Table for Use Case](Deliverable%20#2/Constraints_Table.pdf)**
+### **[System Constraints Table for Use Case](Deliverable%202/Constraints_Table.pdf)**
