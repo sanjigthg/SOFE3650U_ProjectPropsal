@@ -1,3 +1,5 @@
+## Functional Requirements
+
 ### **1) Hi-Score Tracking** 
 This functional requirement should allow the user to be encouraged to play competitively or casually amongst friends or other online users. This should also give the user the opportunity to view their own scores to improve if they so desire to. 
 
