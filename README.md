@@ -6,7 +6,7 @@
 * Dillon Dudley - 100743584
 * Sanjigth Gnanabaskaran - 100635268
 
-## [DELIVERABLE #1 - PROJECT PROPOSAL](/Deliverable%201)
+## [DELIVERABLE #1 - Project Proposal](/Deliverable%201)
 
 For this required deliverable, we are presenting the title of the project with a set of functional and non-functional requirements that are required for the software project we have selected to work on. 
 
