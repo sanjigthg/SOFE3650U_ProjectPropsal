@@ -39,12 +39,12 @@ Using this software project, and what we’ve currently learned thus far – the
 
 5) **[Advertisement Remover](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
 
-## DELIVERABLE #2 - Project Phase II 
+## [DELIVERABLE #2 - Project Phase II](/Deliverable%20#2) 
 
-### **[FCAPS Use Case Model](Deliverable%#2/FCAPS_PhaseII_Diagram.pdf)**
+### **[FCAPS Use Case Model](Deliverable%20#2/FCAPS_PhaseII_Diagram.pdf)**
 
-### **[Use Case Table](Deliverable%#2/UseCase_Table.pdf)**
+### **[Use Case Table](Deliverable%20#2/UseCase_Table.pdf)**
 
-### **[Quality Attributes Table For Use Case](Deliverable%#2/QualityAttributes_Table.pdf)**
+### **[Quality Attributes Table For Use Case](Deliverable%20#2/QualityAttributes_Table.pdf)**
 
-### **[System Constraints Table for Use Case](Deliverable%#2/Constraints_Table.pdf)**
+### **[System Constraints Table for Use Case](Deliverable%20#2/Constraints_Table.pdf)**
