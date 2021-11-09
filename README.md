@@ -29,22 +29,22 @@ Using this software project, and what we’ve currently learned thus far – the
 
 ## Non-Functional Requirements 
 
-1.1) **[Level Difficulties](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
+1) **[Level Difficulties](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-1.2) **[Downloadable/purchasable content](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
+2) **[Downloadable/purchasable content](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-1.3) **[Different Themes](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
+3) **[Different Themes](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-1.4) **[Easily Accessable](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
+4) **[Easily Accessable](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-1.55) **[Advertisement Remover](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
+5) **[Advertisement Remover](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
 ## [DELIVERABLE #2 - Project Phase II](/Deliverable%202) 
 
-2.1) **[FCAPS Use Case Model](Deliverable%202/FCAPS_PhaseII_Diagram.pdf)**
+1) **[FCAPS Use Case Model](Deliverable%202/FCAPS_PhaseII_Diagram.pdf)**
 
-2.2) **[Use Case Table](Deliverable%202/UseCase_Table.pdf)**
+2) **[Use Case Table](Deliverable%202/UseCase_Table.pdf)**
 
-2.3) **[Quality Attributes Table For Use Case](Deliverable%202/QualityAttributes_Table.pdf)**
+3) **[Quality Attributes Table For Use Case](Deliverable%202/QualityAttributes_Table.pdf)**
 
-2.4) **[System Constraints Table for Use Case](Deliverable%202/Constraints_Table.pdf)**
+4) **[System Constraints Table for Use Case](Deliverable%202/Constraints_Table.pdf)**

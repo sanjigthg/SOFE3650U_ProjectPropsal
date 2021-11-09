@@ -17,17 +17,17 @@ The design of this software project requires the user to be able to collect a hi
 
 ## Non-Functional Requirements 
 
-### **1.1) Level Difficulties**
+### **1) Level Difficulties**
 Every level should be increasingly more difficult, as this is what gives a competetive feel to the game. When the user beats a level, the next level they move on to will require more points within a lesser amount of moves.
 
-### **1.2) Downloadable/purchasable content**
+### **2) Downloadable/purchasable content**
 The user will be able to purchase or download limited edition content; this will allow for the game content to be updated keeping the user experience fresh and fun.
 
-### **1.3) Different Themes**
+### **3) Different Themes**
 As the user progresses through the game, we want to allow for different themes inbetween each level. This will allow for the game to keep from becoming old and redundant in the space of user experience.
 
-### **1.4) Easily Accessable**
+### **4) Easily Accessable**
 We wish for our users to be able to play our game anywhere we go. With that we will attempt to make the game accessable from computers, laptops, or even smartphones.
 
-### **1.5) Advertisement Remover**
+### **5) Advertisement Remover**
 As we plan for our game to be free to play, we will need to use ads to bring in revenue in order to continue support for the game. However we plan to offer a purchasable advertisement remover, which will allow the user to get rid of annoying ad's while still being able to support us and play our game.
