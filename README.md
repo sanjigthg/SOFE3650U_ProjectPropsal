@@ -17,27 +17,27 @@ For our software project proposal, the selected project we are working with is a
 
 Using this software project, and what we’ve currently learned thus far – the functional requirements that should be focused on are the following:
 
-1) **[Hi-Score Tracking](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)** 
+1) **[Hi-Score Tracking](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)** 
 
-2) **[Software Platform](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)** 
+2) **[Software Platform](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)** 
 
-3) **[Combo Sequence Capability](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+3) **[Combo Sequence Capability](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-4) **[Hi-Score System](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+4) **[Hi-Score System](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-5) **[Multiple Levels](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+5) **[Multiple Levels](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
 ## Non-Functional Requirements 
 
-1) **[Level Difficulties](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+1) **[Level Difficulties](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-2) **[Downloadable/purchasable content](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+2) **[Downloadable/purchasable content](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-3) **[Different Themes](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+3) **[Different Themes](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-4) **[Easily Accessable](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+4) **[Easily Accessable](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
-5) **[Advertisement Remover](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%20%231)**
+5) **[Advertisement Remover](https://github.com/sanjigth/SOFE3650U_ProjectPropsal/tree/main/Deliverable%201)**
 
 ## [DELIVERABLE #2 - Project Phase II](/Deliverable%202) 
 
