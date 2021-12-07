@@ -48,3 +48,19 @@ Using this software project, and what we’ve currently learned thus far – the
 3) **[Quality Attributes Table For Use Case](Deliverable%202/QualityAttributes_Table.pdf)**
 
 4) **[System Constraints Table for Use Case](Deliverable%202/Constraints_Table.pdf)**
+
+## [DELIVERABLE #3 - Project Phase III](/Deliverable%203)
+
+1) **[ADD Process - Iteration #1](Deliverable%203/ADDProcess_Iteration#1_Group19.pdf)**
+
+2) **[ADD Process - Iteration #2](Deliverable%203/ADDProcess_Iteration#2_Group19.pdf)**
+
+3) **[ADD Process - Iteration #3](Deliverable%203/ADDProcess_Iteration#3_Group19.pdf)**
+
+## [ADD Presentation - Group 19](/Presentation)
+
+1) **[Presentation](Presentation/ADDPresentation_Group19.pdf)**
+
+## [Team And Peer Assessment](/Assessment)
+
+1) **[Team and Peer Assessment PDF](/Assessment/TeamAndPeerAssessment_Group19.pdf)**
