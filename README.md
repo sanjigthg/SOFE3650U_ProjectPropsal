@@ -51,11 +51,11 @@ Using this software project, and what we’ve currently learned thus far – the
 
 ## [DELIVERABLE #3 - Project Phase III](/Deliverable%203)
 
-1) **[ADD Process - Iteration #1](Deliverable%203/ADDProcess_Iteration#1_Group19.pdf)**
+1) **[ADD Process - Iteration #1](Deliverable%203/ADDProcess_Iteration1_Group19.pdf)**
 
-2) **[ADD Process - Iteration #2](Deliverable%203/ADDProcess_Iteration#2_Group19.pdf)**
+2) **[ADD Process - Iteration #2](Deliverable%203/ADDProcess_Iteration2_Group19.pdf)**
 
-3) **[ADD Process - Iteration #3](Deliverable%203/ADDProcess_Iteration#3_Group19.pdf)**
+3) **[ADD Process - Iteration #3](Deliverable%203/ADDProcess_Iteration3_Group19.pdf)**
 
 ## [ADD Presentation - Group 19](/Presentation)
 
